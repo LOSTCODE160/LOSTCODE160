@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm VITHAL</h1>
 <h3 align="center">A passionate Game developer from India</h3>
-https://github.com/user-attachments/assets/5f1c3818-6f59-4cc9-b286-580e298d2a3f
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostcode160&label=Profile%20views&color=0e75b6&style=flat" alt="lostcode160" /> </p>
