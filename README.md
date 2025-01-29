@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VITHAL</h1>
 <h3 align="center">A passionate Game developer from India</h3>
-<img src="https://user-images.githubusercontent.com/28299607/139309325-ae78f2fe-f864-46c8-9c98-a53b3abd019b.gif" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<img src="https://github.com/user-attachments/assets/11ae7f4b-3438-451a-a600-6458bba5eeb7" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
  
 
 
