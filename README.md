@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm VITHAL</h1>
 <h3 align="center">A passionate Game developer from India</h3>
+<img src="https://user-images.githubusercontent.com/28299607/139309325-ae78f2fe-f864-46c8-9c98-a53b3abd019b.gif" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+ 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lostcode160&label=Profile%20views&color=0e75b6&style=flat" alt="lostcode160" /> </p>
