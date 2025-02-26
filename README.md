@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Unity and Blender**
 
-- 📫 How to reach me **vithalchoudhary4@gmail.com**
+- 📫 How to reach me **dev.vithalchoudhary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
