@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I'm Vithal, a passionate game developer from India
 🔭 I’m currently working on game name kitchenchaos<br>🌱 I’m currently learning Unity and Blender<br>📫 How to reach me dev.vithalchoudhary@gmail.com
 
 <img src="https://github.com/user-attachments/assets/11ae7f4b-3438-451a-a600-6458bba5eeb7" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
