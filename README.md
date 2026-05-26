@@ -1,76 +1,118 @@
-<!-- ========================= MASTER HEAD ========================= -->
+<!-- Master Head Banner -->
+<a href="https://github.com/LOSTCODE160">
+  <img width="100%" src="https://i.pinimg.com/originals/8b/72/8f/8b728f7a1b6f5b4d0f7e6f3d4d9c7a6d.gif" alt="Banner GIF"/>
+</a>
+
+<div align="center">
+
+# 🚀 Vithal Choudhary
+
+### 🎮 Game Developer | ☁️ Cloud & DevOps Learner
+
+<br>
 
 <a href="https://github.com/LOSTCODE160">
-  <img width="100%" src="./vithal2.gif" alt="Banner GIF"/>
+  <img src="https://komarev.com/ghpvc/?username=LOSTCODE160&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </a>
+
+<a href="https://github.com/LOSTCODE160?tab=followers">
+  <img src="https://img.shields.io/github/followers/LOSTCODE160?style=for-the-badge&color=blue&labelColor=1c1917" />
+</a>
+
+<a href="https://github.com/LOSTCODE160?tab=repositories">
+  <img src="https://img.shields.io/github/stars/LOSTCODE160?style=for-the-badge&color=yellow&labelColor=1c1917" />
+</a>
+
+</div>
 
 ---
 
-<!-- ========================= ABOUT ME GIF ========================= -->
-
-<img align="right" alt="coding-gif" width="350" src="./transparent_gitgif.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 # 💫 About Me
 
-🎮 Passionate Game Developer from India  
-🌱 Learning Unity, Blender, AWS & DevOps  
-☁️ Exploring Cloud Infrastructure & Automation  
-⚡ Interested in Game Development, Linux & DevOps  
-🚀 Currently working on Parallax Background Games  
+🌱 Learning **Unity, Blender, AWS & DevOps**  
+🎮 Passionate about creating immersive game experiences  
+☁️ Exploring **Cloud Infrastructure & Automation**  
+⚡ Interested in **Game Development, DevOps & Linux**  
+🚀 Currently working on **Parallax Background Games**  
 📫 Reach me at: **dev.vithalchoudhary@gmail.com**
 
 <br><br>
-
----
 
 # 🌐 Connect With Me
 
 <div align="left">
 
 <a href="mailto:dev.vithalchoudhary@gmail.com">
-<img width="40px" src="./gmail_new_logo.png" />
+<img width="40px" src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://linkedin.com/in/vithal-choudhary-712977253/">
-<img width="40px" src="./linkedin-blue.png" />
+<img width="40px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://instagram.com/vithal_162">
-<img width="40px" src="https://skillicons.dev/icons?i=instagram"/>
+<img width="40px" src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://discord.gg/kakashi2170">
-<img width="40px" src="https://skillicons.dev/icons?i=discord"/>
+<img width="40px" src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 <a href="https://x.com/choudharyvithal">
-<img width="40px" src="https://cdn.simpleicons.org/x/white"/>
+<img width="40px" src="https://cdn.simpleicons.org/x/white" />
 </a>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+# 📚 Languages & Tools
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=unity,blender,cs,cpp,c,python,html,css,mysql,sqlite" />
-
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash,git,githubactions" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,postman" />
 
 </div>
+
+---
+
+# ☁️ DevOps Skills
+
+```yaml
+Cloud:
+  - AWS
+  - Linux
+
+DevOps:
+  - Docker
+  - Kubernetes
+  - Terraform
+  - Ansible
+  - GitHub Actions
+
+Practices:
+  - CI/CD
+  - Infrastructure as Code
+  - Automation
+  - Containerization
+```
 
 ---
 
 # 🔥 Current Focus
 
-- 🎮 Building 2D & 3D Unity Games
-- ☁️ Learning AWS Cloud Infrastructure
-- ⚙️ Automating Infrastructure using Terraform & Ansible
-- 🐳 Working with Docker Containers
+- 🎮 Building Unity Games
+- ☁️ Learning AWS Cloud
+- ⚙️ Automating Infrastructure
+- 🐳 Working with Docker
 - 🚀 Exploring CI/CD Pipelines
 
 ---
@@ -79,25 +121,27 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LOSTCODE160&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=LOSTCODE160&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LOSTCODE160&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LOSTCODE160&theme=tokyo-night" />
 
 </div>
 
 ---
 
-<div align="center">
+# 💡 Quote I Believe In
 
-<img src="./green.gif" width="100%" />
-
-</div>
+> “Code. Create. Break. Learn. Repeat.”
 
 ---
 
 <div align="center">
+
+### 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=LOSTCODE160&icon=5&color=12)
 
 ### ⭐ Thanks for visiting my profile!
 
