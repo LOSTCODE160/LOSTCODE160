@@ -111,9 +111,6 @@ Practices:
 
 <img src="https://streak-stats.demolab.com?user=LOSTCODE160&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LOSTCODE160&theme=tokyo-night" />
 
 </div>
 
