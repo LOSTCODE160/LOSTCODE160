@@ -1,23 +1,136 @@
-# 💫 About Me: 
-😊I'm Vithal, a passionate game developer from India<br>
-🔭 I’m currently working on parallax Background Games  <br>🌱 I’m currently learning Unity and Blender<br>📫 How to reach me dev.vithalchoudhary@gmail.com
+# 🚀 Vithal Choudhary | Game Developer & DevOps Enthusiast
 
-<img src="https://github.com/user-attachments/assets/11ae7f4b-3438-451a-a600-6458bba5eeb7" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kakashi2170) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vithal_162) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vithal-choudhary-712977253/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/choudharyvithal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.vithalchoudhary@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Game+Developer+from+India;Unity+%7C+Blender+%7C+DevOps;AWS+%7C+Terraform+%7C+Ansible;Always+Learning+New+Things+🚀" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LOSTCODE160&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LOSTCODE160&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTCODE160&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LOSTCODE160&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LOSTCODE160&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎮 Passionate **Game Developer** from India
+🕹️ Currently building **Parallax Background Games** in Unity
+🌱 Learning **Unity, Blender, AWS & DevOps**
+☁️ Exploring **Cloud Infrastructure & Automation**
+⚡ Love creating scalable systems and immersive gameplay experiences
+📫 Reach me at: **[dev.vithalchoudhary@gmail.com](mailto:dev.vithalchoudhary@gmail.com)**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://discord.gg/kakashi2170"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://instagram.com/vithal_162"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vithal-choudhary-712977253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/choudharyvithal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:dev.vithalchoudhary@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🎮 Game Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,blender,cs,cpp,c" />
+</p>
+
+## 🌐 Web & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,python,mysql,sqlite" />
+</p>
+
+## ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash,git,githubactions" />
+</p>
+
+---
+
+# 🚀 DevOps Skills
+
+```yaml
+Cloud Platforms:
+  - AWS
+  - Linux Server Management
+
+DevOps Tools:
+  - Docker
+  - Kubernetes
+  - Terraform
+  - Ansible
+  - GitHub Actions
+
+Practices:
+  - CI/CD Pipelines
+  - Infrastructure as Code
+  - Automation
+  - Containerization
+  - Monitoring Basics
+```
+
+---
+
+# 🔥 Current Focus
+
+* 🎮 Building 2D & 3D Unity Games
+* ☁️ Learning AWS Cloud Infrastructure
+* ⚙️ Automating deployments using Terraform & Ansible
+* 🐳 Working with Docker Containers
+* 🚀 Exploring CI/CD Pipelines
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LOSTCODE160&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LOSTCODE160&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTCODE160&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LOSTCODE160&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Vithal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LOSTCODE160\&theme=tokyo-night)](https://github.com/LOSTCODE160)
+
+---
+
+
+# 💡 Quote I Believe In
+
+> “Code. Create. Break. Learn. Repeat.”
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=LOSTCODE160\&icon=5\&color=12)
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
