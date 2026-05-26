@@ -34,6 +34,8 @@
 
 # 💫 About Me
 
+<div align="center">
+
 🌱 Learning **Unity, Blender, AWS & DevOps**  
 🎮 Passionate about creating immersive game experiences  
 ☁️ Exploring **Cloud Infrastructure & Automation**  
@@ -41,33 +43,40 @@
 🚀 Currently working on **Parallax Background Games**  
 📫 Reach me at: **dev.vithalchoudhary@gmail.com**
 
-<br><br>
+</div>
+
+<br>
+
+---
 
 # 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
 
 <a href="mailto:dev.vithalchoudhary@gmail.com">
-<img width="40px" src="https://skillicons.dev/icons?i=gmail" />
+<img width="45px" src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://linkedin.com/in/vithal-choudhary-712977253/">
-<img width="40px" src="https://skillicons.dev/icons?i=linkedin" />
+<img width="45px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://instagram.com/vithal_162">
-<img width="40px" src="https://skillicons.dev/icons?i=instagram" />
+<img width="45px" src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://discord.gg/kakashi2170">
-<img width="40px" src="https://skillicons.dev/icons?i=discord" />
+<img width="45px" src="https://skillicons.dev/icons?i=discord" />
 </a>
 
 <a href="https://x.com/choudharyvithal">
-<img width="40px" src="https://cdn.simpleicons.org/x/white" />
+<img width="45px" src="https://cdn.simpleicons.org/x/white" />
 </a>
 
 </div>
+
+<br>
+
 
 ---
 
