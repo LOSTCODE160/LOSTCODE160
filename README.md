@@ -27,7 +27,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+
+https://github.com/user-attachments/assets/cb2288ca-62e9-484d-9249-e68be85fca38
+
+
 
 # 💫 About Me
 
@@ -78,7 +82,7 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash,git,githubactions" />
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,github" />
 
 </div>
 
