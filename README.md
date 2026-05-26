@@ -109,23 +109,15 @@ Practices:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LOSTCODE160&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=LOSTCODE160&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=LOSTCODE160&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTCODE160&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LOSTCODE160&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LOSTCODE160&theme=tokyo-night" />
 
 </div>
+
+
 
 ---
 
