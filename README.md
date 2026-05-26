@@ -27,9 +27,8 @@
 
 ---
 
+<img width="600" height="470" alt="Photo by @zoinked" src="https://github.com/user-attachments/assets/386a2e81-052e-453d-a00f-df942682e5a4" />
 
-
-https://github.com/user-attachments/assets/cb2288ca-62e9-484d-9249-e68be85fca38
 
 
 
