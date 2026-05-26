@@ -1,5 +1,5 @@
 
-# 🚀 Vithal Choudhary | Game Developer | Cloud & DevOps Learner
+# 🚀 Vithal | Game Developer | Cloud & DevOps Learner
 
 <div align="center">
 
