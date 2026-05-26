@@ -11,7 +11,6 @@
 # 💫 About Me
 
 🎮 Passionate **Game Developer** from India
-🕹️ Currently building **Parallax Background Games** in Unity
 🌱 Learning **Unity, Blender, AWS & DevOps**
 ☁️ Exploring **Cloud Infrastructure & Automation**
 ⚡ Love creating scalable systems and immersive gameplay experiences
