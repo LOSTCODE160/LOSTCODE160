@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d1b4e&height=200&section=header&text=Vithal%20Choudhary&fontSize=42&fontColor=e8d5f5&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Cloud%20%26%20DevOps%20Learner&descAlignY=56&descAlign=50&fontAlign=50"/>
+<img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=Vithal%20Choudhary&text2=Game%20Developer%20%7C%20Cloud%20%26%20DevOps&width=1000&height=200"/>
 
 </div>
 
@@ -230,6 +230,6 @@ DevOps の道具 (Tools):
 ### 🌸 プロフィールを訪問してくれてありがとう！
 ### ⭐ *Thanks for visiting — また会いましょう (Mata Aimashou · See You Again)*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:1a0a2e,100:0d0d0d&height=120&section=footer"/>
+<img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text1=また会いましょう&text2=See%20You%20Again&width=1000&height=120"/>
 
 </div>
