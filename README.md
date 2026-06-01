@@ -1,19 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d1b4e&height=200&section=header&text=Vithal%20Choudhary&fontSize=42&fontColor=e8d5f5&animation=fadeIn&fontAlignY=38&desc=ゲーム開発者%20(Game%20Developer)%20|%20クラウド%20(Cloud)%20%26%20DevOps&descAlignY=56&descAlign=50&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d1b4e&height=200&section=header&text=Vithal%20Choudhary&fontSize=42&fontColor=e8d5f5&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%7C%20Cloud%20%26%20DevOps%20Learner&descAlignY=56&descAlign=50&fontAlign=50"/>
 
 </div>
 
 <div align="center">
 
-```
- ██╗   ██╗██╗████████╗██╗  ██╗ █████╗ ██╗
- ██║   ██║██║╚══██╔══╝██║  ██║██╔══██╗██║
- ██║   ██║██║   ██║   ███████║███████║██║
- ╚██╗ ██╔╝██║   ██║   ██╔══██║██╔══██║██║
-  ╚████╔╝ ██║   ██║   ██║  ██║██║  ██║███████╗
-   ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=99999&color=C084FC&center=true&vCenter=true&width=700&height=80&lines=VITHAL+CHOUDHARY"/>
 
 </div>
 
