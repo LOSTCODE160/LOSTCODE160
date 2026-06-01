@@ -49,6 +49,7 @@
 ⚡ **興味 (Interests)** → Game Dev, DevOps & Linux  
 🎮 **開発中 (Building)** → Parallax Background Games  
 📮 **連絡先 (Contact)** → dev.vithalchoudhary@gmail.com  
+🌐 **ポートフォリオ (Portfolio)** → [vithal-portfolio-phi.vercel.app](https://vithal-portfolio-phi.vercel.app/)  
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -62,6 +63,12 @@
 </a>
 <a href="https://github.com/LOSTCODE160?tab=followers">
 <img src="https://img.shields.io/github/followers/LOSTCODE160?style=flat-square&color=a855f7&label=Followers"/>
+</a>
+
+<br><br>
+
+<a href="https://vithal-portfolio-phi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-vithal--portfolio-C084FC?style=for-the-badge&logoColor=white"/>
 </a>
 
 </td>
