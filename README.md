@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=99999&color=C084FC&center=true&vCenter=true&width=700&height=80&lines=VITHAL+CHOUDHARY"/>
+
 
 </div>
 
