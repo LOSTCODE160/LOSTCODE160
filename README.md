@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d1b4e&height=200&section=header&text=Vithal%20Choudhary&fontSize=42&fontColor=e8d5f5&animation=fadeIn&fontAlignY=38&desc=ゲーム開発者%20|%20クラウド%20%26%20DevOps&descAlignY=56&descAlign=50&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d1b4e&height=200&section=header&text=Vithal%20Choudhary&fontSize=42&fontColor=e8d5f5&animation=fadeIn&fontAlignY=38&desc=ゲーム開発者%20(Game%20Developer)%20|%20クラウド%20(Cloud)%20%26%20DevOps&descAlignY=56&descAlign=50&fontAlign=50"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=ゲーム開発者+%2F+Game+Developer;Unity+%7C+Blender+%7C+DevOps+Practitioner;AWS+%7C+Terraform+%7C+Ansible;Linux+%7C+Docker+%7C+CI%2FCD+Explorer;常に新しいことを学んでいる+🌸"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&pause=1200&color=C084FC&center=true&vCenter=true&width=750&lines=ゲーム開発者+%2F+Game+Developer;Unity+%7C+Blender+%7C+DevOps+Practitioner;AWS+%7C+Terraform+%7C+Ansible;Linux+%7C+Docker+%7C+CI%2FCD+Explorer;常に新しいことを学んでいる+(Always+Learning)+🌸"/>
 
 </div>
 
@@ -27,8 +27,7 @@
 
 <div align="center">
 
-<!-- 桜 Sakura divider -->
-`✦ ── ──── ── ✦ 桜 ✦ ── ──── ── ✦`
+`✦ ── ──── ── ✦ 桜 (Sakura · Cherry Blossom) ✦ ── ──── ── ✦`
 
 </div>
 
@@ -43,20 +42,20 @@
 <br>
 
 ```yaml
-名前     : Vithal Choudhary
-役割     : Game Developer & DevOps Learner
-場所     : India 🇮🇳
-道      : Unity | Blender | Cloud | Automation
+名前 (Name)   : Vithal Choudhary
+役割 (Role)   : Game Developer & DevOps Learner
+場所 (Place)  : India 🇮🇳
+道   (Path)   : Unity | Blender | Cloud | Automation
 ```
 
 <br>
 
-🌸 **学習中** → Unity, Blender, AWS & DevOps  
-⛩️ **情熱** → Immersive game experiences  
-☁️ **探索中** → Cloud Infrastructure & Automation  
-⚡ **興味** → Game Dev, DevOps & Linux  
-🎮 **開発中** → Parallax Background Games  
-📮 **連絡先** → dev.vithalchoudhary@gmail.com  
+🌸 **学習中 (Learning)** → Unity, Blender, AWS & DevOps  
+⛩️ **情熱 (Passion)** → Immersive game experiences  
+☁️ **探索中 (Exploring)** → Cloud Infrastructure & Automation  
+⚡ **興味 (Interests)** → Game Dev, DevOps & Linux  
+🎮 **開発中 (Building)** → Parallax Background Games  
+📮 **連絡先 (Contact)** → dev.vithalchoudhary@gmail.com  
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -66,10 +65,10 @@
 <br><br>
 
 <a href="https://github.com/LOSTCODE160">
-<img src="https://komarev.com/ghpvc/?username=LOSTCODE160&label=訪問者数&color=7c3aed&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=LOSTCODE160&label=Profile+Views&color=7c3aed&style=flat-square"/>
 </a>
 <a href="https://github.com/LOSTCODE160?tab=followers">
-<img src="https://img.shields.io/github/followers/LOSTCODE160?style=flat-square&color=a855f7&label=フォロワー"/>
+<img src="https://img.shields.io/github/followers/LOSTCODE160?style=flat-square&color=a855f7&label=Followers"/>
 </a>
 
 </td>
@@ -80,7 +79,7 @@
 
 <div align="center">
 
-`✦ ── ──── ── ✦ 侍 ✦ ── ──── ── ✦`
+`✦ ── ──── ── ✦ 侍 (Samurai) ✦ ── ──── ── ✦`
 
 </div>
 
@@ -90,9 +89,9 @@
 
 <div align="center">
 
-| プラットフォーム | リンク |
+| プラットフォーム (Platform) | リンク (Link) |
 |:---:|:---:|
-| 📧 メール | [dev.vithalchoudhary@gmail.com](mailto:dev.vithalchoudhary@gmail.com) |
+| 📧 メール (Email) | [dev.vithalchoudhary@gmail.com](mailto:dev.vithalchoudhary@gmail.com) |
 | 💼 LinkedIn | [vithal-choudhary](https://linkedin.com/in/vithal-choudhary-712977253/) |
 | 📸 Instagram | [@vithal_162](https://instagram.com/vithal_162) |
 | 🎮 Discord | [kakashi2170](https://discord.gg/kakashi2170) |
@@ -113,9 +112,9 @@
 </div>
 
 ```
-Unity ░░░░░░░░░░░░░░░░░░░░  修行中 (Shūgyō — In Training)
-Blender ░░░░░░░░░░░░░░░░░░  修行中 (Shūgyō — In Training)
-C# ░░░░░░░░░░░░░░░░░░░░░░░  習得中 (Shūtoku — Acquiring)
+Unity    ░░░░░░░░░░░░░░░░░░░░  修行中 (Shūgyō · In Training)
+Blender  ░░░░░░░░░░░░░░░░░░░░  修行中 (Shūgyō · In Training)
+C#       ░░░░░░░░░░░░░░░░░░░░  習得中 (Shūtoku · Acquiring Skill)
 ```
 
 ---
@@ -142,7 +141,7 @@ C# ░░░░░░░░░░░░░░░░░░░░░░░  習得
 
 <div align="center">
 
-`✦ ── ──── ── ✦ 龍 ✦ ── ──── ── ✦`
+`✦ ── ──── ── ✦ 龍 (Ryū · Dragon) ✦ ── ──── ── ✦`
 
 </div>
 
@@ -151,21 +150,21 @@ C# ░░░░░░░░░░░░░░░░░░░░░░░  習得
 ## 📜 DevOps の道 — The DevOps Path
 
 ```yaml
-# 武器庫 — Arsenal
+# 武器庫 (Bukikou · Arsenal)
 
 クラウド (Cloud):
   - AWS ☁️
   - Linux 🐧
 
 DevOps の道具 (Tools):
-  - Docker      🐳  # コンテナ化
-  - Kubernetes  ⚙️  # オーケストレーション
-  - Terraform   🏗️  # インフラ as コード
-  - Ansible     🤖  # 自動化
-  - GitHub Actions 🔄  # CI/CD
+  - Docker          🐳  # コンテナ化 (Containerization)
+  - Kubernetes      ⚙️  # オーケストレーション (Orchestration)
+  - Terraform       🏗️  # インフラ as コード (Infra as Code)
+  - Ansible         🤖  # 自動化 (Automation)
+  - GitHub Actions  🔄  # CI/CD パイプライン (Pipeline)
 
-修行 (Practices):
-  - CI/CD パイプライン
+修行 (Shūgyō · Practices):
+  - CI/CD パイプライン (Pipelines)
   - Infrastructure as Code
   - 自動化 (Automation)
   - コンテナ化 (Containerization)
@@ -177,7 +176,7 @@ DevOps の道具 (Tools):
 
 <div align="center">
 
-| 🎮 ゲーム | ☁️ クラウド | ⚙️ 自動化 |
+| 🎮 ゲーム (Games) | ☁️ クラウド (Cloud) | ⚙️ 自動化 (Automation) |
 |:---:|:---:|:---:|
 | 2D & 3D Unity Games | AWS Cloud Infrastructure | Terraform & Ansible |
 | Parallax Backgrounds | Docker Containers | CI/CD Pipelines |
@@ -202,7 +201,7 @@ DevOps の道具 (Tools):
 
 <div align="center">
 
-`✦ ── ──── ── ✦ 心 ✦ ── ──── ── ✦`
+`✦ ── ──── ── ✦ 心 (Kokoro · Heart) ✦ ── ──── ── ✦`
 
 </div>
 
@@ -217,7 +216,7 @@ DevOps の道具 (Tools):
 
 <br>
 
-*一期一会 — Ichi-go Ichi-e — One moment, one meeting. Treasure every encounter.*
+*一期一会 (Ichi-go Ichi-e) — One moment, one meeting. Treasure every encounter.*
 
 </div>
 
@@ -225,16 +224,18 @@ DevOps の道具 (Tools):
 
 <div align="center">
 
-`✦ ── ──── ── ✦ ありがとう ✦ ── ──── ── ✦`
+`✦ ── ──── ── ✦ ありがとう (Arigatou · Thank You) ✦ ── ──── ── ✦`
 
 <br>
 
-![](https://visitcount.itsvg.in/api?id=LOSTCODE160&icon=5&color=9333ea)
+<a href="https://github.com/LOSTCODE160">
+<img src="https://img.shields.io/badge/動的_Profile_Views_(Profile_Views)-LOSTCODE160-7c3aed?style=for-the-badge&logo=github"/>
+</a>
 
-<br>
+<br><br>
 
 ### 🌸 プロフィールを訪問してくれてありがとう！
-### ⭐ *Thanks for visiting — また会いましょう (See you again)*
+### ⭐ *Thanks for visiting — また会いましょう (Mata Aimashou · See You Again)*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:1a0a2e,100:0d0d0d&height=120&section=footer"/>
 
