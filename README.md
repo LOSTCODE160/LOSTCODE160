@@ -8,9 +8,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:7C3AED,70:A855F7,100:FF6B9D&height=220&section=header&text=VITHAL%20CHOUDHARY&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=侍%20·%20Game%20Developer%20·%20Cloud%20%26%20DevOps&descSize=18&descAlignY=54"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,35:7C3AED,70:A855F7,100:FF6B9D&height=220&section=header&text=VITHAL%20CHOUDHARY&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=GAME%20DEVELOPER%20-%20CLOUD%20-%20DEVOPS&descSize=18&descAlignY=54"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=24&pause=1100&color=C084FC&center=true&vCenter=true&width=780&height=60&lines=ゲーム開発者+%2F+Game+Developer;Unity+%7C+Blender+%7C+C%23+%E2%80%94+修行中;AWS+%7C+Terraform+%7C+Ansible+%7C+Kubernetes;Linux+%7C+Docker+%7C+CI%2FCD+Explorer;常に新しいことを学んでいる+%E2%80%94+Always+Learning+🌸"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Noto+Serif+JP&weight=600&size=24&pause=1100&color=C084FC&center=true&vCenter=true&width=780&height=60&lines=%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%80%85%20%2F%20Game%20Developer;Unity%20%7C%20Blender%20%7C%20C%23%20%E2%80%94%20%E4%BF%AE%E8%A1%8C%E4%B8%AD;AWS%20%7C%20Terraform%20%7C%20Ansible%20%7C%20Kubernetes;Linux%20%7C%20Docker%20%7C%20CI%2FCD%20Explorer;%E5%B8%B8%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%AD%A6%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%20%E2%80%94%20Always%20Learning"/>
 
 <br>
 
@@ -20,9 +20,10 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=LOSTCODE160&label=訪問者%20·%20VISITORS&color=7c3aed&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/LOSTCODE160?style=flat-square&color=a855f7&labelColor=0D0D0D&label=フォロワー%20·%20FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/LOSTCODE160?style=flat-square&color=ff6b9d&labelColor=0D0D0D&label=スター%20·%20STARS"/>
+<img src="https://komarev.com/ghpvc/?username=LOSTCODE160&label=VISITORS&color=7c3aed&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/LOSTCODE160?style=flat-square&color=a855f7&labelColor=0D0D0D&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/BASED%20IN-India-ff6b9d?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/STATUS-%E4%BF%AE%E8%A1%8C%E4%B8%AD%20Training-c084fc?style=flat-square&labelColor=0D0D0D"/>
 
 </div>
 
@@ -92,7 +93,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=900&color=FF6B9D&center=true&vCenter=true&width=330&height=30&lines=%3E+compiling+dreams...;%3E+terraform+apply+--auto-approve;%3E+git+commit+-m+%22one+more+push%22"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&pause=900&color=FF6B9D&center=true&vCenter=true&width=330&height=30&lines=%3E%20compiling%20dreams...;%3E%20terraform%20apply%20--auto-approve;%3E%20git%20commit%20-m%20%22one%20more%20push%22"/>
 
 </td>
 </tr>
@@ -112,7 +113,7 @@
 
 <a href="mailto:dev.vithalchoudhary@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B9D&labelColor=0D0D0D"/></a>
 <a href="https://linkedin.com/in/vithal-choudhary-712977253/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=C084FC&labelColor=0D0D0D"/></a>
-<a href="https://x.com/choudharyvithal"><img src="https://img.shields.io/badge/X%20·%20Twitter-0D0D0D?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D0D0D"/></a>
+<a href="https://x.com/choudharyvithal"><img src="https://img.shields.io/badge/X%20%C2%B7%20Twitter-0D0D0D?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0D0D0D"/></a>
 <a href="https://instagram.com/vithal_162"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF6B9D&labelColor=0D0D0D"/></a>
 <a href="https://discord.gg/kakashi2170"><img src="https://img.shields.io/badge/kakashi2170-0D0D0D?style=for-the-badge&logo=discord&logoColor=C084FC&labelColor=0D0D0D"/></a>
 <a href="https://vithal-portfolio-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0D0D0D"/></a>
@@ -259,11 +260,11 @@
 
 <br><br>
 
-<img width="92%" src="https://streak-stats.demolab.com?user=LOSTCODE160&hide_border=true&background=00000000&ring=C084FC&fire=FF6B9D&currStreakLabel=C084FC&sideNums=C084FC&sideLabels=9CA3AF&dates=6B7280&stroke=A855F7&currStreakNum=FFFFFF"/>
+<img width="92%" src="https://streak-stats.demolab.com/?user=LOSTCODE160&hide_border=true&background=00000000&ring=C084FC&fire=FF6B9D&currStreakLabel=C084FC&sideNums=C084FC&sideLabels=9CA3AF&dates=6B7280&stroke=A855F7&currStreakNum=FFFFFF"/>
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LOSTCODE160&theme=tokyo-night&bg_color=0d0d0d&color=c084fc&line=a855f7&point=ff6b9d&area=true&area_color=7c3aed&hide_border=true&custom_title=貢献グラフ%20·%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LOSTCODE160&theme=tokyo-night&bg_color=0d0d0d&color=c084fc&line=a855f7&point=ff6b9d&area=true&area_color=7c3aed&hide_border=true&custom_title=%E8%B2%A2%E7%8C%AE%E3%82%B0%E3%83%A9%E3%83%95%20Contribution%20Graph"/>
 
 <br><br>
 
@@ -337,8 +338,8 @@
 
 <br>
 
-<a href="https://vithal-portfolio-phi.vercel.app/"><img src="https://img.shields.io/badge/🌸%20また会いましょう-See%20You%20Again-C084FC?style=for-the-badge&labelColor=0D0D0D"/></a>
+<a href="https://vithal-portfolio-phi.vercel.app/"><img src="https://img.shields.io/badge/%E3%81%BE%E3%81%9F%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86-See%20You%20Again-C084FC?style=for-the-badge&labelColor=0D0D0D"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,30:A855F7,65:7C3AED,100:0D0D0D&height=160&section=footer&text=また会いましょう&fontSize=34&fontColor=ffffff&fontAlignY=72&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,30:A855F7,65:7C3AED,100:0D0D0D&height=160&section=footer&text=MATA%20AIMASHOU&fontSize=34&fontColor=ffffff&fontAlignY=72&animation=fadeIn"/>
 
 </div>
