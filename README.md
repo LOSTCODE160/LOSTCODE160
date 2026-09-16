@@ -230,16 +230,15 @@
 
 <div align="center">
 
-<a href="https://github.com/LOSTCODE160?tab=repositories">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOSTCODE160&repo=LOSTCODE160&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=9CA3AF&icon_color=FF6B9D"/>
-</a>
-<a href="https://vithal-portfolio-phi.vercel.app/">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOSTCODE160&repo=portfolio&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=9CA3AF&icon_color=FF6B9D"/>
-</a>
+| 作品 · Project | 説明 · What It Is | 技術 · Built With |
+|:---|:---|:---|
+| **[🌐 Portfolio](https://vithal-portfolio-phi.vercel.app/)** | Personal portfolio site — live | `HTML` `CSS` `Vercel` |
+| **[🎮 Parallax Game](https://github.com/LOSTCODE160?tab=repositories)** | 2D parallax-scrolling Unity build | `Unity` `C#` |
+| **[☁️ Infra Playground](https://github.com/LOSTCODE160?tab=repositories)** | Terraform + Ansible practice modules | `Terraform` `Ansible` `AWS` |
 
-<br><br>
+<br>
 
-<sub>⚠️ <i>Swap the <code>repo=</code> values above for your two best repositories.</i></sub>
+<sub>✏️ <i>Replace the repo links above with your real repositories.</i></sub>
 
 </div>
 
@@ -251,12 +250,29 @@
 
 </div>
 
+<!--
+  ⚠️ IF THESE CARDS EVER GO BLANK AGAIN — it is the service, not your markdown.
+  These are free shared Vercel instances; they get paused when they blow past
+  the free tier. The old github-readme-stats.vercel.app is currently returning
+  503 DEPLOYMENT_PAUSED for everyone, which is why these now point at the
+  maintained fork github-stats-extended.vercel.app.
+
+  PERMANENT FIX — self-host (~10 min, free):
+    1. Fork  github.com/anuraghazra/github-readme-stats
+    2. GitHub → Settings → Developer settings → Personal access tokens
+       → generate a classic token, no scopes needed for public data
+    3. vercel.com → Add New Project → import your fork
+    4. Add env var  PAT_1  = your token → Deploy
+    5. Swap the host below for  your-project.vercel.app
+  Then you own the quota and it never pauses on you.
+-->
+
 ## 📊 GitHub 統計 — GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LOSTCODE160&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=9CA3AF&icon_color=FF6B9D&ring_color=A855F7"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOSTCODE160&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=9CA3AF"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=LOSTCODE160&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=9CA3AF&icon_color=FF6B9D&ring_color=A855F7"/>
+<img width="41%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LOSTCODE160&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=9CA3AF"/>
 
 <br><br>
 
@@ -264,7 +280,7 @@
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LOSTCODE160&theme=tokyo-night&bg_color=0d0d0d&color=c084fc&line=a855f7&point=ff6b9d&area=true&area_color=7c3aed&hide_border=true&custom_title=%E8%B2%A2%E7%8C%AE%E3%82%B0%E3%83%A9%E3%83%95%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LOSTCODE160&theme=tokyo-night&bg_color=0d0d0d&color=c084fc&line=a855f7&point=ff6b9d&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph"/>
 
 <br><br>
 
